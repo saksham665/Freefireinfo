@@ -29,7 +29,7 @@ def get_jwt_token_sync(region):
         "BR": "https://projects-fox-x-get-jwt.vercel.app/get?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
         "US": "https://tokenalljwt.onrender.com/api/oauth_guest?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
         "SAC": "https://tokenalljwt.onrender.com/api/oauth_guest?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
-        "NA": "https://tokenalljwt.onrender.com/api/oauth_guest?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
+        "NA": "https://tokenalljwt.onrender.com/api/oauth_guest?uid=4286826000&password=LKTEAM-ENBCNFWCS",
         "default": "https://projects-fox-x-get-jwt.vercel.app/get?uid=3763606630&password=7FF33285F290DDB97D9A31010DCAA10C2021A03F27C4188A2F6ABA418426527C"
     }    
     url = endpoints.get(region, endpoints["default"])
