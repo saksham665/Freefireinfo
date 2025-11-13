@@ -27,7 +27,7 @@ def get_jwt_token_sync(region):
     endpoints = {
         "IND": "https://jwtgenchx.vercel.app/token?uid=3976277520&password=3C07CA0CF3C22DB4DB5A00A8C75E3FED7869FB11CED0ADFB5C8DE7E92652B704",
         "BR": "https://projects-fox-x-get-jwt.vercel.app/get?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
-        "US": "https://jwt-gen-api-v2.onrender.com/token?uid=4286831974&password=LKTEAM-JGWOVISXH",
+        "US": "https://jwtgenchx.vercel.app/token?uid=4286835553&password=LKTEAM-S8ZOGBUM6",
         "SAC": "https://tokenalljwt.onrender.com/api/oauth_guest?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
         "NA": "https://tokenalljwt.onrender.com/api/oauth_guest?uid=4286828943&password=LKTEAM-QR3UHTPKY",
         "default": "https://projects-fox-x-get-jwt.vercel.app/get?uid=3763606630&password=7FF33285F290DDB97D9A31010DCAA10C2021A03F27C4188A2F6ABA418426527C"
