@@ -130,7 +130,7 @@ def get_player_info():
         message = AccountPersonalShowInfo()
         message.ParseFromString(bytes.fromhex(api_response)) 
         result = MessageToDict(message)
-        result['Owners'] = ['TeamxCutehack!!']
+        result['Owners'] = ['Saksham']
         return jsonify(result)
     except ValueError:
         return jsonify({"error": "Invalid UID format"}), 400
